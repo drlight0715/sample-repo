@@ -1,3 +1,3 @@
 # sample-repo
 
-practicing git basics <- updated
+practicing git basics <- updated v2
